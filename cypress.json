@@ -1,0 +1,5 @@
+{
+  "baseUrl": "http://localhost:8080/fin-web-console/?lang=en",
+  "viewportWidth": 1800,
+  "viewportHeight": 1600
+}
